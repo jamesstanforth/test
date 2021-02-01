@@ -8,3 +8,4 @@ statusbar.setLabel("Health")
 statusbar.positionDirection(CollisionDirection.Bottom)
 statusbar.setOffsetPadding(0, 10)
 statusbar.value = 100
+music.baDing.play()
